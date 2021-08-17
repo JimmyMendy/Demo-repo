@@ -8,4 +8,4 @@ a tuto to learn git basics
 
 ## Local Developement
 
-!. Opne index.html in your browser. 
+!. Open index.html in your browser. 
